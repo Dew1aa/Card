@@ -1,0 +1,23 @@
+[
+  {
+    "name": "chanathip chaengsad",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 91 503 2479",
+    "email": "chanathip@example.com",
+    "image": "https://raw.githubusercontent.com/Dew1aa/Card/refs/heads/main/Dewp.png"
+  },
+  {
+    "name": "Pongpisut Kongtian",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 95 764 8322",
+    "email": "pongpisut@example.com",
+    "image": "https://raw.githubusercontent.com/Dew1aa/Card/refs/heads/main/Beamp.png"
+  },
+  {
+    "name": "Tichanon jhampa",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 98 246 1795",
+    "email": "Tichanon@example.com",
+    "image": "https://raw.githubusercontent.com/Dew1aa/Card/refs/heads/main/Famep.png"
+  }
+]
